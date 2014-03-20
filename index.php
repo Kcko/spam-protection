@@ -3,7 +3,6 @@
 <head>
 	<meta charset="UTF-8" />
 	<title>Test proti spamu</title>
-
 	<style>
 		.nod {display: none;}
 	</style>
