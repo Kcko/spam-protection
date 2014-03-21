@@ -58,7 +58,7 @@
 
 	<!-- Vygenerovany input pres JS -->
    <script type="text/javascript">
-        document.write('<input type="hidden" name="robot" value="'+(10 + 15)+'" />');
+        document.write('<input type="hidden" name="robot" value="'+(10 + 10)+'" />');
     </script>
 
 	
@@ -70,7 +70,7 @@
 	<!-- Tohle se pouzije v pripade ze ma clovek vyply JS a musi to vyplnit ruco -->
 	<noscript>
 	<p>
-		<label for="robot">Ochrana proti spamu, doplňte výsledek 10 + 15 = </label>
+		<label for="robot">Ochrana proti spamu, doplňte výsledek 10 + 10 = </label>
 		<input type="text" name="robot" id="robot" />
 	</p>
 	</noscript>
